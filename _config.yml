@@ -6,7 +6,7 @@ favicon: images/favicon.ico
 name: Aniket Nagrale 
 title: Product Analyst
 email: aniketn.iitkgp@gmail.com
-website: www.github.com/sproogen/resume-theme
+# website: www.github.com/sproogen/resume-theme
 darkmode: true
 
 # Social links
@@ -26,7 +26,12 @@ linkedin_username: aniketnagrale
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Structured problem solver and result oriented professional with experience in managing a team of software, cloud & machine learning engineers, proven ability to deliver great solutions, worked on deploying machine learning workflows in production and analyzing data to make informed trade-offs.
-  I always had an intellectual curiosity for solving organizational challenges and broaden my area of expertise. I thrive in rapidly growing and innovative organizations by delivering quality performance and significant value addition. Hold a strong engineering background after being graduated from the Indian Institute of Technology, Kharagpur, where I got immense opportunities to learn and hone my skills & interests in practice. I am most skilled in:  <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  
+  I always had an intellectual curiosity for solving organizational challenges and broaden my area of expertise. I thrive in rapidly growing and innovative organizations by delivering quality performance and significant value addition. Hold a strong engineering background after being graduated from the Indian Institute of Technology, Kharagpur, where I got immense opportunities to learn and hone my skills & interests in practice. 
+  
+  Hold a strong engineering background after being graduated from the Indian Institute of Technology, Kharagpur, where I got immense opportunities to learn and hone my skills & interests in practice.
+  
+# I am most skilled in:  <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
 # Projects Section
 # projects_title: Projects
