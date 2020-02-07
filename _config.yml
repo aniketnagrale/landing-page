@@ -3,30 +3,30 @@ repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
+name: Aniket Nagrale 
+title: Product Analyst
+email: aniketn.iitkgp@gmail.com
 website: www.github.com/sproogen/resume-theme
+darkmode: true
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+# twitter_username: facespics
+github_username:  aniketnagrale 
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: chillwildlife
-linkedin_username: jameswgrant
+instagram_username: aniketnagrale.in
+linkedin_username: aniketnagrale
 # pinterest_username: jekyll
-youtube_username: globalmtb
+# youtube_username: globalmtb
 # googleplus_username: +jekyll
 
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  Structured problem solver and result oriented professional with experience in managing a team of software, cloud & machine learning engineers, proven ability to deliver great solutions, worked on deploying machine learning workflows in production and analyzing data to make informed trade-offs.
+  I always had an intellectual curiosity for solving organizational challenges and broaden my area of expertise. I thrive in rapidly growing and innovative organizations by delivering quality performance and significant value addition. Hold a strong engineering background after being graduated from the Indian Institute of Technology, Kharagpur, where I got immense opportunities to learn and hone my skills & interests in practice. I am most skilled in:  <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
 # Projects Section
 # projects_title: Projects
@@ -35,16 +35,15 @@ about_content: | # this will include new lines to allow paragraphs
 # experience_title: Experience
 
 # Education Section
-# educaton_title: Education
+educaton_title: B.Tech from Indian Institute of Technology, Kharagpur
 
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Rock climbing
+  Alongside my interests in Product Engineering & Management, some of my other interests and hobbies are:
+   - Trekking
    - Gaming
-   - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+   - Cricket & Basketball
 
 # Footer
 footer_show_references: true
