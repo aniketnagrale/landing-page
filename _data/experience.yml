@@ -1,9 +1,25 @@
 - layout: left
+  company: Whatfix
+  link: https://whatfix.com/
+  job_title: Product Manager
+  dates: May 2023 - August 2023
+  quote: >
+   Sales and Marketting
+  description: | # This will include new lines to allow paragraphs
+    Whatfix Description.
+  company: Rapido
+  link: https://rapido.bike/
+  job_title: Product Manager
+  dates: November 2020 - April 2023
+  quote: >
+   Owner of Cancellations
+  description: | # This will include new lines to allow paragraphs
+    Rapido Description.
   company: AthenasOwl Technologies
   link: https://athenasowl.tv/
   job_title: Product Analyst
-  dates: June 2019 - Present
+  dates: June 2019 - May 2020
   quote: >
-   AI Driven Solutions for Media & Entertainment Domain
-  description: | # this will include new lines to allow paragraphs
-    A part of Automated AI team, which is specialized in Developing, Deploying and Testing the processing frameworks. Structuring and Solutionizing new requirements is a major part of my work. I lead a team of 6 people and enjoy driving the company to try new technologies.
+   AI-Driven Solutions for Media & Entertainment Domain
+  description: | # This will include new lines to allow paragraphs
+    A part of the Automated AI team, which specializes in Developing, Deploying, and Testing the processing frameworks. Structuring and Solving new requirements is a major part of my work. I lead a team of 6 people and enjoy driving the company to try new technologies.
